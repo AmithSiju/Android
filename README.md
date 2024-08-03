@@ -1,2 +1,2 @@
 # Android
-LAB
+LAB Workshop
